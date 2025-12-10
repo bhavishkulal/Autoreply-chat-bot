@@ -32,7 +32,7 @@ requirements.txt
 README.md
 
 
-Copy code
+
 
 ---
 
@@ -43,20 +43,20 @@ Copy code
 pip install -r requirements.txt
 
 
-Copy code
+
 
 ### 2️⃣ Create a `.env` file (copy from `.env.example`)
 
 GEMINI_API_KEY=your_api_key_here
 
-Copy code
+
 
 ### 3️⃣ Run the bot
 
 python main.py
 
 
-Copy code
+
 
 ---
 
@@ -67,7 +67,7 @@ Run:
 python cursor_position.py
 
 
-Copy code
+
 
 Move your mouse where needed → coordinates will print.
 
@@ -85,3 +85,4 @@ Move your mouse where needed → coordinates will print.
 
 Project created by **Bhavish**  
 Simple Python automation + AI reply system.
+
