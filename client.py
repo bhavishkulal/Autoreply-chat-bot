@@ -5,7 +5,7 @@ import google.generativeai as genai
 # ===============================
 # PUT YOUR GEMINI API KEY HERE
 # ===============================
-genai.configure(api_key="AIzaSyAxlg-tn7CzkZ2lAoIGLXHlDBLJTrVRz-4")
+genai.configure(api_key="API KEY HERE")
 
 PERSONA = """
 Reply on behalf of Bhavish.
